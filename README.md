@@ -1,8 +1,8 @@
-Registration Application
+## Registration Application
 
 
 
-This project is a GUI application developed in NetBeans IDE, with keyframes provided by NetBeans.Using Java and SQL for the backend. It provides a user-friendly interface for interacting with a MySQL database to manage data.
+This project is a GUI application developed in NetBeans IDE, with keyframes provided by NetBeans. Java and SQL used for the backend. It provides a user-friendly interface for interacting with a MySQL database to manage data.
 
 This application allows users to register with their name, email, phone number and date of birth. It provides CRUD operations to manage user registrations.
 
